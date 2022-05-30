@@ -1,0 +1,18 @@
+ .btn-group{
+   display: block;
+ }
+ 
+ .btn-group button {
+    min-width: 80%;
+    display: block;
+    margin-bottom: 3vh;
+    
+    
+  }
+
+  .btn-group a {
+    text-decoration: none;
+    
+  }
+  
+  
