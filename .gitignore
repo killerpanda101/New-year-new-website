@@ -1,0 +1,15 @@
+# Secrets / local config
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+secrets.*
+credentials.json
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
